@@ -1,0 +1,33 @@
+#Employee Details
+org:
+ nit:
+  eid: 101
+  ename: vasu
+  #Array Vlaues
+  favColors:
+    - red
+    - yellow
+    - blue
+  #List values
+  nickNames:
+    - chandu
+    - chintu
+    - banty
+   #set values
+  phoneNumbers:
+    - 9878989348
+    - 82848584695
+    - 7989834839445
+   #Map values
+  idDetails:
+    aadharNo: 800000206758
+    voterId: 78378jg99rn
+    panNo: IURPK21J
+   #has-a proeprty
+  company:
+    id: 1234
+    name: nit
+    addrs: hyd
+     
+      
+    

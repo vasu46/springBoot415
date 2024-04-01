@@ -1,0 +1,4 @@
+#prieprties yml
+spring:
+ config:
+  import: myFile.yml

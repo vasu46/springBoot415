@@ -1,0 +1,12 @@
+#cust.info.custNo=101
+#cust.info.custName=raja
+#cust.info.custAddrs=hyd
+#cust.info.billAmt=50000
+
+
+cust:
+  info:
+    custNo: '101'
+    custName: raja
+    custAddrs: hyd
+    billAmt: '90000'

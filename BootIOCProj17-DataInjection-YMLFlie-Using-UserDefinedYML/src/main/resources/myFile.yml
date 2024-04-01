@@ -1,0 +1,8 @@
+#CustomerDetails
+org:
+ nit:
+  cust:
+   custNo: 1234
+   custName: vasu
+   custAddrs: hyd
+   billAmt: 9000
